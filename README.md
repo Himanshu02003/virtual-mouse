@@ -1,4 +1,4 @@
-import cv2
+Mimport cv2
 import numpy as np
 from pynput.mouse import Button,Controller #Contains Mouse Operations
 import wx #WX Lib is used To get the Screen Size Of Monitor
